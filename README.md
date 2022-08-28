@@ -2,17 +2,17 @@
 
 Problem Encoding:
 
-Program execution instructions on terminal:
+Program execution instructions on terminal:<br>
   > Save all files in a same folder (problem_encoding.lp, problem_instance1.lp,
-                                     problem_instance2.lp, problem_instance3.lp). 
-  > Initiate clingo (For anaconda prompt type "conda activate potassco"). 
-  > Run command clingo problem_encoding.lp problem_instance[i].lp, i ∈ {1,2,3}.
+                                     problem_instance2.lp, problem_instance3.lp). <br>
+  > Initiate clingo (For anaconda prompt type "conda activate potassco"). <br>
+  > Run command clingo problem_encoding.lp problem_instance[i].lp, i ∈ {1,2,3}.<br>
 
-Program execution instructions on Running Clingo (https://potassco.org/clingo/run/):
-    > Copy paste problem_instance[i].lp, i ∈ {1,2,3} one at a time.
-    > Copy paste problem_encoding.lp below the instance.
-    > Set reasoning mode 'enumerate all'.
-    > hit Run!
+Program execution instructions on Running Clingo (https://potassco.org/clingo/run/): <br>
+  > Copy paste problem_instance[i].lp, i ∈ {1,2,3} one at a time. <br>
+  > Copy paste problem_encoding.lp below the instance.<br>
+  > Set reasoning mode 'enumerate all'.<br>
+  > hit Run!<br>
 
 Problem Statement:
 > A university library needs to cancel its subscription to a number of journals
