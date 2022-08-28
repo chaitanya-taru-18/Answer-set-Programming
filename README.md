@@ -1,1 +1,1 @@
-# Answer-set-Programming
+# Answer Set Programming
